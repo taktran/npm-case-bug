@@ -1,7 +1,7 @@
 {
   "name": "npm-case-bug",
   "version": "1.0.0",
-  "description": "A proof of concept for https://github.com/npm/npm/issues/7933",
+  "description": "Replication of the bug for https://github.com/npm/npm/issues/7933",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
