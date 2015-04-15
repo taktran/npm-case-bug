@@ -61,4 +61,4 @@ Depending on which dependency is installed, I get one of the two errors
     npm ERR! Please include the following file with any support request:
     npm ERR!     /Users/.../npm-case-bug/npm-debug.log
 
-Running it a second time installs everything.
+Running `npm install` a second time installs everything ok.
